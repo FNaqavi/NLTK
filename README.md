@@ -1,6 +1,3 @@
-# nltk
-natural language processing example codes.
-
 # Text Summarization using NLTK
 
 This Python script demonstrates text summarization using the Natural Language Toolkit (NLTK). It generates a summary of input text by selecting the top-ranked sentences based on word frequency.
