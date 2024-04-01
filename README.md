@@ -9,7 +9,9 @@ This Python script demonstrates text summarization using the Natural Language To
 
 Install NLTK using pip if you haven't already:
 
+`
 pip install nltk
+`
 
 ## Usage
 
