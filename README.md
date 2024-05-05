@@ -28,6 +28,4 @@ pip install nltk
 5. **Summary Generation**: The top-ranked sentences are selected to form the summary. By default, it selects the top third of sentences with the highest scores.
 6. **Output**: The script prints the generated summary.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
